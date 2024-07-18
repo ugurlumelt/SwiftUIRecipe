@@ -11,6 +11,7 @@
 		540189052C4967B800C8A036 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540189042C4967B800C8A036 /* ContentView.swift */; };
 		540189072C4967B900C8A036 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 540189062C4967B900C8A036 /* Assets.xcassets */; };
 		5401890A2C4967B900C8A036 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 540189092C4967B900C8A036 /* Preview Assets.xcassets */; };
+		540189112C4967ED00C8A036 /* RecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540189102C4967ED00C8A036 /* RecipeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		540189042C4967B800C8A036 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		540189062C4967B900C8A036 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		540189092C4967B900C8A036 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		540189102C4967ED00C8A036 /* RecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				540189022C4967B800C8A036 /* SwiftUIRecipeApp.swift */,
 				540189042C4967B800C8A036 /* ContentView.swift */,
+				540189102C4967ED00C8A036 /* RecipeView.swift */,
 				540189062C4967B900C8A036 /* Assets.xcassets */,
 				540189082C4967B900C8A036 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				540189112C4967ED00C8A036 /* RecipeView.swift in Sources */,
 				540189052C4967B800C8A036 /* ContentView.swift in Sources */,
 				540189032C4967B800C8A036 /* SwiftUIRecipeApp.swift in Sources */,
 			);
